@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "itzrealcrax-UKSL.aternos.me:22874",
+    "ip": "itzrealcrax-UKSL.aternos.me",
     "port": 22874,
     "version": "1.21.1"
   },
